@@ -1,0 +1,40 @@
+name : 
+	分割 : X
+owner:
+	分割 : 公司/個人ownertype | 公司名稱/個人名稱
+source:
+	類別格式化 : 製造、加工......
+food_type :
+	類別格式化 : 目前四種，是否把生鮮冷凍類納入生食類
+net_weight :
+	單位 : 公斤很不合理
+capacity : 
+	空資料 : 溼食為空
+additives : 
+	魔王在這裡
+	*未來要分析的話，要將成份切開
+analytical_constituents : 
+	魔王在這裡
+feedind_instructions : 
+	分割 : 適用對象 applies_to | 使用方式 product_instructions | 保存方法 storage 
+photo_src : 
+	網站上有二張圖的好像都是重覆的
+country_of_origin : 
+	類別格式化
+
+
+同品項不同重量
+、
+http://animal.coa.gov.tw/html2/content.aspx?id=A20160400339
+成份換行
+http://animal.coa.gov.tw/html2/content.aspx?id=A20160400385
+添加換行
+http://animal.coa.gov.tw/html2/content.aspx?id=A20160400334
+添加, 主成份空白
+http://animal.coa.gov.tw/html2/content.aspx?id=A20160500143
+主成份無分割符號
+http://animal.coa.gov.tw/html2/content.aspx?id=A20180300179
+餵食方式有二個
+http://animal.coa.gov.tw/html2/content.aspx?id=A20160200043
+
+
